@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sudoshz",
+    "description": "",
+    "home_page_url": "https://fingercoder01.github.io/webtest",
+    "feed_url": "https://fingercoder01.github.io/webtest/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "abbas"
+    },
+    "items": [
+    ]
+}
