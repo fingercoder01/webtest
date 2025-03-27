@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>abbas</title>
-    <link href="https://segwer.iu/feed.xml" rel="self" />
-    <link href="https://segwer.iu" />
+    <title>sudoshz</title>
+    <link href="///feed.xml" rel="self" />
+    <link href="//" />
     <updated>1970-01-01T03:00:00+03:00</updated>
     <author>
-        <name>dfg</name>
+        <name>abbas</name>
     </author>
-    <id>https://segwer.iu</id>
+    <id>//</id>
 
 </feed>
